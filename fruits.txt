@@ -1,3 +1,7 @@
 apples
+<<<<<<< HEAD
 oranges
+=======
+>>>>>>> veggies
 banana
+oranges
